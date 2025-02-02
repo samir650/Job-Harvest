@@ -40,8 +40,8 @@ Ensure you have the following installed on your system:
 - **Filter and sort jobs based on various criteria (e.g., industry, location, experience level).**
 
 ## 👥 Team Members
+- **Samir Elawady**
 - **Mohammed Tarabay**
-- **Samir El-awady**
 - **Mohammed Rizk**
 - **Adham El-Sadat**
 - **Sami El-Yazouri**
